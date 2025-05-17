@@ -10,6 +10,14 @@ Welcome to my GitHub profile! I'm a student btw... a weeb... but i do love learn
 - 📫 How to reach me: glhbagja@gmail.com
 - ⚡ Fun fact: 🤓☝️ thats it...
 
+## 🖥️Device Specification
+- Axioo Hype 5 AMD X6
+- Processor: Ryzen 5 6600H
+- RAM: 16GB DDR4 3200MHz
+- Storage: 512GB NVMe SSD
+- OS: Windows 11 + (Linux Mint) 
+  
+
 ## 🛠️ Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
