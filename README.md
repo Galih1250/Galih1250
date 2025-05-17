@@ -1,11 +1,11 @@
-# 👋 Sup Boys and Girls, I'm Bagja Galih Wiguna From Indonesia !
+# 👋 Sup Boys and Girls, I'm **Bagja Galih Wiguna** From Indonesia !
 
 Welcome to my GitHub profile! I'm a student btw... a weeb... but i do love learning new stuff, such as code im interested in Web Development and Game Development... Soon i want to be a "Good" developer... and help other such as my friends and other... (unlike someone who always cocky and brag about literally anything) especially my junior, its fun to teach them about coding... 
 
 ## 🚀 About Me
 
 - 📖 I’m currently studying on: Informatic Engineering in Al - Ghifari University
-- 🌱 I’m want to learn: Rust, Java, Python, C#, and .Lua or even something like Flutter or Swift... or even both ! i even want to learn how to do 3d modelling... so many stuff i wanna learn... but one thing i couldn't understand... why does our government are [REDACTED]
+- 🌱 I’m want to learn: Rust, Java, Python, C#, and .Lua or even something like Flutter or Swift... or even both ! i even want to learn how to do 3d modelling... so many stuff i wanna learn... but one thing i couldn't understand... why does our government are ~~[REDACTED]~~
 - 💬 Ask me about: you can ask me anything... 
 - 📫 How to reach me: glhbagja@gmail.com
 - ⚡ Fun fact: 🤓☝️ thats it...
@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a student btw... a weeb... but i do love learn
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 
 # 📈 GitHub Stats
-## Soon... It'll be atleast A
+##### Soon... It'll be atleast A
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
