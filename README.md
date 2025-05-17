@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a student btw... a weeb... but i do love learn
 ## 🚀 About Me
 
 - 📖 I’m currently studying on: Informatic Engineering in Al - Ghifari University
-- 🌱 I’m want to learn: Rust, Java, Python, C#, and .Lua
+- 🌱 I’m want to learn: Rust, Java, Python, C#, and .Lua or even something like Flutter or Swift... or even both ! i even want to learn how to do 3d modelling... so many stuff i wanna learn... but one thing i couldn't understand... why does our government are [REDACTED]
 - 💬 Ask me about: you can ask me anything... 
 - 📫 How to reach me: glhbagja@gmail.com
 - ⚡ Fun fact: 🤓☝️ thats it...
