@@ -30,8 +30,8 @@ Welcome to my GitHub profile! I'm a student btw... a weeb... but i do love learn
 
 # 📈 GitHub Stats
 ##### Soon... It'll be atleast A
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Galih1250&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Galih1250&layout=compact&theme=tokyonight)
 
 ## 🌐 Connect with Me
 
